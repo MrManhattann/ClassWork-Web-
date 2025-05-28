@@ -21,7 +21,7 @@ ul,h2,p {
     margin: 0;
 }
 .list-item {
-    width: 30%;
+    width: 24%;
 }
 .list-item > img {
     width: 100%;
@@ -34,4 +34,11 @@ ul {
 }
 .article {
     padding: 20px;
+}
+li {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  border-radius: 5px;
 }
